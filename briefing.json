@@ -1,93 +1,82 @@
 {
-  "updated_at": "2026-03-30T06:00:40.075994+00:00",
-  "date": "2026-03-30",
+  "updated_at": "2026-03-31T06:00:40.816424+00:00",
+  "date": "2026-03-31",
   "forecasts": {
     "reykjavik": {
       "place": "Reykjavík / Capital Area",
-      "updated_at": "2026-03-30T06:00",
+      "updated_at": "2026-03-31T06:00",
       "current": {
-        "temp": 2.7,
-        "desc": "Light rain",
-        "wind": 8.3,
-        "gust": 13.3
+        "temp": 0.9,
+        "desc": "Snow",
+        "wind": 8.1,
+        "gust": 13.7
       },
       "days": [
         {
           "label": "Today",
-          "date": "2026-03-30",
-          "desc": "Light snow",
-          "tmin": 1,
-          "tmax": 4,
-          "rain": 4.1,
-          "wind": 8.6,
-          "gust": 17.1,
-          "code": 71
-        },
-        {
-          "label": "Tue",
           "date": "2026-03-31",
           "desc": "Snow",
           "tmin": 1,
-          "tmax": 3,
-          "rain": 8.1,
-          "wind": 10.6,
-          "gust": 17.1,
+          "tmax": 2,
+          "rain": 8.6,
+          "wind": 12.3,
+          "gust": 22.5,
           "code": 73
         },
         {
           "label": "Wed",
           "date": "2026-04-01",
-          "desc": "Light snow",
-          "tmin": 1,
-          "tmax": 3,
-          "rain": 1.3,
-          "wind": 12.9,
-          "gust": 23.0,
-          "code": 71
+          "desc": "Light drizzle",
+          "tmin": 2,
+          "tmax": 6,
+          "rain": 0.5,
+          "wind": 12.0,
+          "gust": 19.8,
+          "code": 51
         },
         {
           "label": "Thu",
           "date": "2026-04-02",
           "desc": "Heavy snow",
-          "tmin": -1,
-          "tmax": 2,
-          "rain": 15.0,
-          "wind": 14.4,
-          "gust": 24.9,
+          "tmin": -2,
+          "tmax": 4,
+          "rain": 9.2,
+          "wind": 15.6,
+          "gust": 26.3,
           "code": 75
+        },
+        {
+          "label": "Fri",
+          "date": "2026-04-03",
+          "desc": "Snow",
+          "tmin": -5,
+          "tmax": -1,
+          "rain": 2.3,
+          "wind": 6.5,
+          "gust": 10.9,
+          "code": 73
         }
       ]
     },
     "vrboska": {
       "place": "Vrboska / Hvar",
-      "updated_at": "2026-03-30T08:00",
+      "updated_at": "2026-03-31T08:00",
       "current": {
-        "temp": 11.0,
-        "desc": "Clear",
-        "wind": 1.46,
-        "gust": 5.0
+        "temp": 9.8,
+        "desc": "Light rain",
+        "wind": 3.44,
+        "gust": 10.2
       },
       "days": [
         {
           "label": "Today",
-          "date": "2026-03-30",
-          "desc": "Overcast",
-          "tmin": 11,
-          "tmax": 15,
-          "rain": 0.0,
-          "wind": 5.0,
-          "gust": 11.1,
-          "code": 3
-        },
-        {
-          "label": "Tue",
           "date": "2026-03-31",
           "desc": "Light rain",
           "tmin": 10,
-          "tmax": 12,
-          "rain": 7.1,
-          "wind": 6.2,
-          "gust": 12.8,
+          "tmax": 13,
+          "rain": 4.4,
+          "wind": 7.1,
+          "gust": 15.9,
           "code": 61
         },
         {
@@ -95,10 +84,10 @@
           "date": "2026-04-01",
           "desc": "Light rain",
           "tmin": 12,
-          "tmax": 14,
-          "rain": 6.1,
-          "wind": 6.1,
-          "gust": 17.2,
+          "tmax": 16,
+          "rain": 1.7,
+          "wind": 7.8,
+          "gust": 17.3,
           "code": 61
         },
         {
@@ -107,9 +96,9 @@
           "desc": "Light rain",
           "tmin": 14,
           "tmax": 16,
-          "rain": 1.1,
-          "wind": 6.9,
-          "gust": 19.5,
+          "rain": 0.4,
+          "wind": 6.7,
+          "gust": 17.5,
           "code": 61
         },
         {
@@ -117,22 +106,33 @@
           "date": "2026-04-03",
           "desc": "Overcast",
           "tmin": 14,
-          "tmax": 17,
+          "tmax": 16,
           "rain": 0.0,
-          "wind": 5.2,
-          "gust": 11.2,
+          "wind": 8.2,
+          "gust": 17.9,
           "code": 3
         },
         {
           "label": "Sat",
           "date": "2026-04-04",
-          "desc": "Mainly clear",
+          "desc": "Clear",
           "tmin": 14,
-          "tmax": 18,
+          "tmax": 19,
           "rain": 0.0,
-          "wind": 3.6,
-          "gust": 6.0,
-          "code": 1
+          "wind": 4.7,
+          "gust": 11.5,
+          "code": 0
+        },
+        {
+          "label": "Sun",
+          "date": "2026-04-05",
+          "desc": "Overcast",
+          "tmin": 14,
+          "tmax": 19,
+          "rain": 0.0,
+          "wind": 3.9,
+          "gust": 7.0,
+          "code": 3
         }
       ]
     }
@@ -140,82 +140,88 @@
   "alerts": [
     {
       "severity": "watch",
-      "title": "Reykjavík / Capital Area: rough weather Wed",
-      "detail": "Light snow, gusts up to 23.0 m/s, rain 1.3 mm.",
+      "title": "Reykjavík / Capital Area: rough weather Today",
+      "detail": "Snow, gusts up to 22.5 m/s, rain 8.6 mm.",
       "source": "Open-Meteo"
     },
     {
       "severity": "watch",
       "title": "Vrboska / Hvar: sailing attention Wed",
-      "detail": "Light rain, wind 6.1 m/s, gusts 17.2 m/s, rain 6.1 mm.",
+      "detail": "Light rain, wind 7.8 m/s, gusts 17.3 m/s, rain 1.7 mm.",
       "source": "Open-Meteo"
     },
     {
       "severity": "official",
+      "title": "Split region warning",
+      "detail": "Valid from 31.03.2026 06:00:00 until 31.03.2026 23:59:59 | Awareness Level: Yellow Locally gale force gusts of bura (NE wind). Maximum gust speed > 65 km/h STAY ALERT for debris carried by strong winds. Debris and tree branches carried by the wind may cause localised interruptions in outdoor activities.",
+      "source": "DHMZ"
+    },
+    {
+      "severity": "official",
       "title": "Middle Dalmatia region marine warning",
-      "detail": "Middle Dalmatia region Valid from 30.03.2026 00:00:00 until 30.03.2026 23:59:59 | Awareness Level: Yellow In the morning and in the evening fresh, locally strong NE wind. Maximum wind gusts 35-45 knots (65-85 km/h)",
+      "detail": "Middle Dalmatia region Valid from 31.03.2026 00:00:00 until 31.03.2026 23:59:59 | Awareness Level: Yellow Fresh and strong, in the evening locally near gale NE wind. Maximum wind gusts 35-60 knot (65-110 km/h)",
       "source": "DHMZ"
     }
   ],
   "news": {
     "world": [
       {
-        "title": "Middle East crisis live: Trump says he wants to ‘take the oil’ in Iran and could seize Kharg Island ‘easily’",
-        "source": "The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbFJRQjdPWmFtRS02cV9IM0dtMi1RUURqZW5iMHlhSUFhVjNWbVRLR08xRUZ6OW94QWRqcFp0QXpPa1NGbHVWc3E2azlvNDJqYTVsSUZhclNKWFkyZS10RHRTTzJVRDF5V044Z0k1NkRtTzRHS3dxNEtacEFHazJySVFuN2dMaWgzdTRSV3FBcUVOWnFVZ3lNb3kyc2xrZXBhZ1QyMVNER0lOYTd6RnFpSW41V1IyeDQ3UTJ2QW13OVl0bzlsVHZwTlVR?oc=5",
-        "published": "2026-03-30T05:32:00+00:00"
+        "title": "Trump says U.S. negotiating with Iranian leaders, despite Iran’s denials",
+        "source": "The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmg3V3d6LWpxRUZxZ3hGTFFQWVkyOHU5UFU2VHFmNll5TUV6UUxHQjZOSWI5aXR2Y0l2ZnI3Ukp2d3JzN0NBaUtGSTQyR2o2d1g5X1UzZG1CV1JTVXZmNU5xUF9VMENwLXRkak93OHBpX3hXTWk3ZXdXSGdXRTR2NkRzQlNHT0lQWFdGWFg2NHRTYWxCamlOazBmcw?oc=5",
+        "published": "2026-03-31T05:32:00+00:00"
       },
       {
-        "title": "Iran war volatility strains trading in world's biggest markets",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYVJXZEczYnFocUJpR0NDVVNzS1V5djdYYTZzTlZYWlZUbTdtdHM1Um8ycGpURTVXd0ZCZ25IdnNjSEluM09BY2JnOHdrSmRxQnhpaHZOM1ZFWE1PZU52TjBOa0FGa2FZSG8xQTd0NFdwOThrZGZRT3M4M0dRZTZ6ckpjTUJaZzF0VnNBUURZd1Qwdw?oc=5",
-        "published": "2026-03-30T04:05:00+00:00"
+        "title": "Trump ramps up threats, oil tanker struck: What we know on Day 32 of the US and Israel’s war with Iran",
+        "source": "CNN",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0RmNXFEdzA4MldPdWVEd3Nid2xmdkptZTVUU1dtVHpQd3ZLUk5QZUZfTlRsc1pmTU1GZVEwM29PSml2YWlSRjkxVHdMbmVfaTBDeER3SjJWSHBJRXBJeVFsTy1adHhWTHpjdDhUUFZKVk5uc0hib0F4aVFCVjM2Q3JuNjZnZzVtYmZuZHJWMDJRYlFuOVBOYl9GYXFWTW94U1RB?oc=5",
+        "published": "2026-03-31T02:37:00+00:00"
       },
       {
-        "title": "Pakistan Says Saudi, Egypt, Turkey Support US-Iran Peace Talks",
-        "source": "Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTElaSUY0MGFWRWYxVmFmandHVEU3ZXl5SERqa3lfZWhsTXdBeVRVVWxKTm5WXzlxVHY0UVFRa2VoR3A2bHVNdG9fU2FQazl1NUd6RmNQMDNibVNVQjZhM2U0NlMtbmZJWF9zWEVWcGloNm4yUnpNM1c1b1IweHBPMVF2UFJsaGYyd1dnYU9peldaTHRTRHp2TnNlTHBVcjZXTDFhWVByYjliVnlMQ052Ug?oc=5",
-        "published": "2026-03-30T03:30:00+00:00"
+        "title": "The Iran War Comes to Iraq",
+        "source": "Foreign Affairs",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hRE1HOVYtRk52WjFUcFQ2NVpqdzVJNk40Y1RSak1IYmk4WjRjc3VIeE01Ml9YR1RRREs2Mm5UdEc2bFZIcUR1ZHo3bG5ucHdFdXgybm9MdkU5bUNONEdja0pwTHF0UlNQa2c0TVNrZWtwQQ?oc=5",
+        "published": "2026-03-31T04:00:00+00:00"
       }
     ],
     "ai": [
       {
-        "title": "Google Backs $5B Texas Data Center for Anthropic, Deepening AI Infrastructure Push",
-        "source": "theenergymag.com",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vWHctc1R4bTNuTzFoVnFsZWhKRFJzVHo3ZW9nOHNRSjNtaXplSGlGcmNTdEJaYVFZWnNBX3RiZi1sWER2bzNqTDFsNWtQMFBYcnRGQ3c3VXhHbnlEOG1ScnlrbVRDTHVoTnpaNFJLVUdUUFU?oc=5",
-        "published": "2026-03-30T05:56:05+00:00"
+        "title": "OpenAI scraps Sora to double down on enterprise AI",
+        "source": "digitimes",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdWQ4YnpDTExmU2hXZEs2ZUMxM3BFc2Zubklab29MUU54dG1GV1Vzc3V5NmY1ZmRwWGdUWjZKY1pMeU1jODdPYnFXQkFJb0ltY3RZdmMtcWJDUWJYWGpacDJGYVFLQlVNN2lDQWRzWnN6cDZWTGJrQVBEaHdnOHFibnZjOVh1al9YV3JrenFjbTY?oc=5",
+        "published": "2026-03-31T03:45:39+00:00"
       },
       {
-        "title": "Eli Lilly and Insilico Medicine Seal $2.75B AI Drug Discovery Partnership After FTC Clearance",
-        "source": "geneonline.com",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkpZcF9XUGdPQVo3VDNSWm9oZnlRZWV5NWJVWWd3WnN3dW5NblN1MTN2QVdvcVhNcDBFNG5TYXNRbTE5YWoyajdBRFVLczJaM21zbHA3VTBhdmJmQTlXLXdyY1FsRVlMU3poeWtnaV9YdXFrcEY3aXJrZjNlX1ctakI1SnZEUEVnRUtMTTRBOEtrM0JENGVTZkxsUnVtSHpQcFdxQ0JGRHdUSEFEUVZHQlo1RGMwNF9LV0lXVA?oc=5",
-        "published": "2026-03-30T05:00:30+00:00"
+        "title": "AI computing shifts from training to inference; heterogeneous architectures go mainstream",
+        "source": "digitimes",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOFBMeGs0Z1NRMW5GeTFrYkVhdFZPLWpqT3MtV3dtOGFUbnlIcVkxY1oyM2VOaGZUNk5VX2NMaUViU21mT0dHbGhGMDFsZ1YyTXdKRXZCZElvenU1MmFndjNLUGlHVi1LNndBcWlyOEgyTV9TN2lOTUZYaFBJNmFGbW9UOEJ3aFFpU0FBWGZxN0VIaFFFQjkwUU12bFM?oc=5",
+        "published": "2026-03-31T02:43:48+00:00"
       },
       {
-        "title": "Apple Pivots Its AI Strategy to App Store, Search-Like Platform Approach",
-        "source": "Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmxjb3ZqTDFHd0R6UmhuV2RSTFRnQkt3Vm9hWWluYTRBZTZReG9LT1pzZzByMi1lYndCV0ctbldzeENyYUxqYWdMLWl6eHFQa0YweFM1NUxLNWo1ZjFsNDNjWkl2U05Tb3ljbFdaZkxhVE5XSV90YkhESi1yNzhuc0p5V2FrR0l4ak92enJUOFdmOUo2RHlNTlRCc1htaUxqQzFFSTVsV0JHRFFNRldPWkJUdjQtWmhxb1Fhd0huR09VMC1WU09hSjNSRFBYZy1sQ1VvNWJmRXc?oc=5",
-        "published": "2026-03-30T04:12:42+00:00"
+        "title": "New Data Shows 97% Surge in Risky AI Prompts, Exposing Critical MSSP Blind Spot",
+        "source": "FinancialContent",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRnNaWWp5V1h3OTFOX0ZrYmR0VVhmSW1uWUdYN0d3c2l4TjNJVVl0dzgyUjVpT2pfRUJwOE5GU2hpYms4UmtZT2JXdzF5akNsNGtsbWt1UjIyVnRVTklSdXlEZm12WUJiZmp1ODRRTVIxel82RXQ5ZmRWdmZQOGx2ZGtHZGpobGw4cmIyc215a2FiTFlHaTlkV1Utdy0yUUFhNmxyMUxsZEI2OVRZV2QyZzZ1Tkxwd0FVUGRMYV90TGcwMXZwZk5EVUVNWkszSUhobW9OM3VGNEdzVTdQb1RmNw?oc=5",
+        "published": "2026-03-31T02:24:00+00:00"
       }
     ],
     "iceland": [
       {
-        "title": "Vilja draga úr vægi verðtryggingar fyrir árslok",
+        "title": "Segir stöðuna alvarlega og kallar eftir samtali um nýja þjóðarsátt",
         "source": "RÚV",
-        "link": "https://www.ruv.is/frettir/innlent/2026-03-29-vilja-draga-ur-vaegi-verdtryggingar-fyrir-arslok-471319/",
-        "published": "2026-03-29T19:53:39+00:00"
+        "link": "https://www.ruv.is/frettir/innlent/2026-03-30-segir-stoduna-alvarlega-og-kallar-eftir-samtali-um-nyja-thjodarsatt-471401/",
+        "published": "2026-03-30T22:45:00+00:00"
       },
       {
-        "title": "Ríkisstjórn án trúverðugleika",
+        "title": "Bau­den­bacher segir ríkis­stjórnina villa um fyrir kjó­sendum um ESB",
         "source": "Viðskiptablaðið",
-        "link": "https://www.vb.is/skodun/rikisstjorn-an-truverdugleika2/",
-        "published": "2026-03-29T17:05:03+00:00"
+        "link": "https://www.vb.is/frettir/baudenbacher-segir-rikisstjornina-villa-fyrir-kjosendum-um-esb/",
+        "published": "2026-03-30T21:58:00+00:00"
       },
       {
-        "title": "Ársæll hættur störfum: Ráðherra talar ekki við mig",
-        "source": "mbl innlent",
-        "link": "https://www.mbl.is/frettir/innlent/2026/03/29/arsaell_haettur_storfum_radherra_talar_ekki_vid_mig/",
-        "published": "2026-03-29T14:46:00+00:00"
+        "title": "Iðnafl kaupir Gólflagnir",
+        "source": "Viðskiptablaðið",
+        "link": "https://www.vb.is/frettir/idnafl-kaupir-golflagnir/",
+        "published": "2026-03-30T19:11:04+00:00"
       }
     ]
   }
