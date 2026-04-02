@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-04-02T05:00:41.600970+00:00",
+  "updated_at": "2026-04-02T06:00:44.373270+00:00",
   "date": "2026-04-02",
   "forecasts": {
     "reykjavik": {
       "place": "Reykjavík / Capital Area",
-      "updated_at": "2026-04-02T05:00",
+      "updated_at": "2026-04-02T06:00",
       "current": {
-        "temp": 2.9,
+        "temp": 3.0,
         "desc": "Heavy drizzle",
-        "wind": 13.5,
-        "gust": 23.7
+        "wind": 14.5,
+        "gust": 24.0
       },
       "days": [
         {
@@ -60,12 +60,12 @@
     },
     "vrboska": {
       "place": "Vrboska / Hvar",
-      "updated_at": "2026-04-02T07:00",
+      "updated_at": "2026-04-02T08:00",
       "current": {
-        "temp": 13.3,
-        "desc": "Light rain",
-        "wind": 4.85,
-        "gust": 13.4
+        "temp": 13.4,
+        "desc": "Overcast",
+        "wind": 5.55,
+        "gust": 16.0
       },
       "days": [
         {
@@ -130,7 +130,7 @@
           "tmin": 13,
           "tmax": 17,
           "rain": 0.0,
-          "wind": 2.6,
+          "wind": 2.5,
           "gust": 4.3,
           "code": 0
         }
@@ -166,42 +166,42 @@
   "news": {
     "world": [
       {
-        "title": "Trump says US forces will 'finish the job' soon in first prime-time speech since starting Iran war",
-        "source": "AP News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQclR3Q2IxbVFJdW5IdVZoM0oyVTNkWDVpS21tQXRvQmJ1LWRKM1lNUFlkMEtJTDNLb2FhWUxEczdrUXBuT1otck1hcnNvV3NUb3p5STRFX0p6Y2pzU0V2Wkt3WXdoNk1ITmVYUjRJTTljZ2d2d1lQOE5FNWhnanRGaUY3cFJ0eFlOTnJlUnRoM1R3Z2RrWFNPMWh6QmJOb1AzVk9j?oc=5",
-        "published": "2026-04-02T03:56:00+00:00"
+        "title": "Trump’s threat to hit Iran 'extremely hard' jolts Asian stocks, U.S. futures and oil first",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNWRhclpLVlRKZXFrRHFaYVI1QWtjMWFqYmNNX01wbXdYZnRNZl9SN2d3UEQ1czh3ZXpQTDBuR1h3cEV6WDdTZGE3d1l3NmJza3JYaXAwalJCVTV1WjF1eFpSeVpNUmxQT1BBaUZFWXlQSXFLSU1WaW9aa0pwTnBWZUVjRlFWaFFFYnlwQXdTNDNTbVlf0gGaAUFVX3lxTE1XTUFXVDNBbGk4V3NXM2tUMkpOaWlDUmhFUllOYy13cXpEelZsczlicWJJbW9rdkZGV1ZzcWNidlZfdFZ2bE4zMF9KbTcyYk5vQXEzZWI4VjFWMUlKWEhtMnRqc0dGLXBkMlZMd1YzYTRJbWxxazhMbERPd1FVMmVSMXJyMGZjR3hENHhfdnVFTFJWS1lFbzZWX3c?oc=5",
+        "published": "2026-04-02T05:31:35+00:00"
       },
       {
-        "title": "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning lifted",
-        "source": "Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd19MRFdJeHpUZ0lVTTNYblFHSGRSV0J2ZWJtd1Vtb0x3dEs2djdDemJZbmtjSEdCVkJydUxiUXJtaXYyM1p0RHB0MFp6Z084ZjA3Vmw4QU90NHg2MWMxTUZ3OHpJcVlRWE52UkJoSUlfZnY0ckN4MmQtSUFiQUlBOGxtWmt4V093VC1TbXhteGk2R3BfcGVoR3BIMXdkeHNjZ21fbzl5T1ZBZURVY0d2U1puMNIBuAFBVV95cUxNQUtZbWRjcVlEbFVkTFNsbHhTN1RHSXVaUFdZbnZkdG1QTGhnLWV1NXVtcEJlQVZJNFNzYkFfM3pjMFBoZWRXNUtIYXlrLXpnN1FRTTBPQmhUM2x4dzBxMHBFWExkYjJvZUZDUHJETHE3eDJaaE82SHJwaEY2RGVLZ20teXdQRFA2UXdCZ05LcEFfMExydnhPYkVxeGRiOUdGWGVYbzEtczVOOEl0TUpLQVpuZENFSW1S?oc=5",
-        "published": "2026-04-02T02:57:59+00:00"
-      },
-      {
-        "title": "Elon Musk’s SpaceX files to go public, seeking massive market debut",
+        "title": "Trump says Iran conflict ‘nearing completion’ as he seeks to calm economic worries",
         "source": "The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zaXVFZFhuNHZlV2ZCREhtQkJyVFExbUlNMlRWZlc1Zy1zNmFiazY5VlhycmtoeWUyQ1A4VElHU1pjZDJGTmQtQkZHVkdfVE45WUMwbEFJN2hoVmtEVGtuV3RzMnF1YzJ6emZNRHlKYllHYkhJN21tZ3RaMllHaFU?oc=5",
-        "published": "2026-04-02T03:58:53+00:00"
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPTEd5Z191UktSanlzMFlhV3lJOHFYZG5tSkJtSkVBNXZpcmNoaWZnLVM1QUdXTXJEZUFZdW05UWRmbkx6UmRIcGxka2hZSERkLVJBNWZwVU5sRW9mUUlGY1hRZFJOUk5EMVFpQ1JJOTUxNG05aHVxUTZDWThZZw?oc=5",
+        "published": "2026-04-02T04:55:42+00:00"
+      },
+      {
+        "title": "Artemis II Completes First Day of Its NASA Lunar Mission",
+        "source": "The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMDNzTThMLXVfUm1WcUp0WjU5U3NCVDhTVURJVEg2ajFTNkVqck9yUWhnSEQzc0RaMTdPVktVQ0t6OW44LXdTSnB2UzlLZE9JellucUp2TlMxeXF3b2xtb0pHT2xxZVNtbXNUUGpXSVVCTjR3OTBrWjVUNmo5Y3JubQ?oc=5",
+        "published": "2026-04-02T04:06:45+00:00"
       }
     ],
     "ai": [
       {
-        "title": "Microsoft: $1 Billion Investment To Build Thailand Cloud And AI Infrastructure",
-        "source": "Pulse 2.0",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRmRxcXJPMjFmWUhNUFhxX0VJT2w5ZVBzMjBYSktMSE5TdktiMFVNRFVkWnZzdlJMZWJncWVpRVFTdXQ2RWlFRHNodHduYW5qNkprSHNiQjI2MGRrZEVjUnJuaTJZWDNDUDJkdm9zUE5yN0JrcFdaSERjWXA3eDFBX1lKVzZKeEdoUDF0cDQyaWtYQjlBM1pFTzhBcUfSAaIBQVVfeXFMTWhmdDUtY1RVSmFFRzc5QXZabEdnUzFicFZzWE94cGlhUzdfeEU1UTBqRzZPLXVEajdjTkdmQUQxMGFYVXJjWmRFR3VDN1JJclVUcW5XMW1ySnc3QjVpcVZBSllTNW95VzNqZElOOXFRa2tSVEpmRkl0ZjM1R2ZRaEZtVjFhRHhkNW1wbmJKN1pZNS1MSnZnNW9XRW9ZR3pFR0R3?oc=5",
-        "published": "2026-04-02T03:33:45+00:00"
+        "title": "Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUzB4X19KQlVrNUozZHM4enItNnRBbFlaZDhqSjUtMzI4cVNkY3BtMjJqeWR6YVBZRFEzU21sTVNCdFNaUFRYeVRFdVgybnZHSlJKcE1jeU9yY0I1U1A3WkRQZUVhMlRXWUFXRm5NV3BaVVhWWTVjR3pSUGE3NEV3Tm94M1lOSGxRdVpYLWxSY1E3WFhoLVFJZDlNd01mZW9EVXVGNnVDSGlGbnYwMlA1VUdTUHE5UGwwbEFzWS1kZEc1b2ZHbGc?oc=5",
+        "published": "2026-04-02T05:22:00+00:00"
       },
       {
-        "title": "Evaluating the ethics of autonomous systems",
-        "source": "MIT News",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mQnlmanoxMHp3SmRBN2k2OUtiSGZMdmkzWHZ3UlhOWXlia3h1SVBWMXBlWE1DZDhLLWJDN2NDTm13U2VwbE4yUGJSQnFuM1dnU0ZTVXBDNzI2YnZMZzRabmpPRGpVSU13czdyRVJES3FYNGxiSkE?oc=5",
-        "published": "2026-04-02T04:00:00+00:00"
+        "title": "Google Pressured To Stop Serving AI Video To Kids 04/01/2026",
+        "source": "MediaPost",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUVVyTVJuUThpOTREbGZYS3hKeDVtWlR0SHdqZVVfV1p3LVF6Rnl6Y0xlMGtfS1VZXzVEZEY2clpEdjVXSDRZUVlrLVRLdHJNTkRHZGhjQkxRdmZTaEYxZWprSnVCeXZHMU1FSEl6X0Zmc3FUYkxPMnN2WG9PaUtSV0ROemVsNEZBLXo1RUhham5xU003S2NOTjdrb2w5UVU0dVRBc09CTUs4NXVF?oc=5",
+        "published": "2026-04-02T03:22:30+00:00"
       },
       {
-        "title": "‘That’s a great point!’: Overly agreeable AI models shown to harm people’s judgment",
-        "source": "Palo Alto Online",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa1ZrSUQyY0JEbXEtUDFveWVUMV9SOWxZd05LM1AtOEFkc3d0QlN1X0RuSzd1RGNSM3BCN0pITlpCRUl5UmhWaWpGTXE0Q0ZWcFZqRTA2X1dEcERldk1wZnVWR2hXdGtKUDV0cmxQTVVBNVFDc1FLNXpWM3BYeEI3UE5QQWtvVmhtSmFsV0pqdF9feVhzVHRTbGtuTGNqNjJubGFNWjJ4d2lpUVFtOFA2cm1zYklkQW9vZkRDS2p3blhkaHpZWHItYlIwQQ?oc=5",
-        "published": "2026-04-01T21:22:12+00:00"
+        "title": "Real‑Time AI Engine Poised to Revolutionize Large‑Scale Imaging Data at National Labs",
+        "source": "Newswise",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODBfSGdGV1B2OEJTbC1fLVdrMjA5ZXVTc1k2eExRdDE3akpLbFpRVmpkT2hBRFY5REl6S25aMGNLNy16REY1LUw2MUhnN2ZhNHlaeDUtOGZEQUltbk1ia29FbDdYeFVsQVlsOHF4bS1HQTBtVjNSbnhrTkY1a3ZjNDI1RE92X3dNYVNkRzBZM1ZsMFF1M1B5cnVRTDF5MDFiNFUyZzhoZWN6M0FiZWdockhlLW8xRmNLc0Y0UHFB0gG-AUFVX3lxTFA4MF9IZ0ZXUHY4QlNsLV8tV2syMDlldVNzWTZ4TFF0MTdqSktsWlFWamRPaEFEVjlESXpLblowY0s3LXpERjUtTDYxSGc3ZmE0eVp4NS04ZkRBSW1uTWJrb0VsN1h4VWxBWWw4cXhtLUdBMG1WM1JueGtORjVrdmM0MjVET3Zfd01hU2RHMFkzVmwwUXUzUHlydVFMMXkwMWI0VTJnOGhlY3ozQWJlZ2hySGUtbzFGY0tzRjRQcUE?oc=5",
+        "published": "2026-04-02T02:45:00+00:00"
       }
     ],
     "iceland": [
@@ -212,16 +212,16 @@
         "published": "2026-04-01T17:28:26+00:00"
       },
       {
-        "title": "Rauð viðvörunarljós blikka",
-        "source": "RÚV",
-        "link": "https://www.ruv.is/frettir/innlent/2026-04-01-raud-vidvorunarljos-blikka-471578/",
-        "published": "2026-04-01T23:19:13+00:00"
-      },
-      {
         "title": "Skref Icelandair til Möltu ekki óvænt segir fyrrverandi forstjóri",
         "source": "RÚV",
         "link": "https://www.ruv.is/frettir/innlent/2026-04-01-skref-icelandair-til-moltu-ekki-ovaent-segir-fyrrverandi-forstjori-471560/",
         "published": "2026-04-01T17:57:32+00:00"
+      },
+      {
+        "title": "Ef olían er í 100 dölum verður verðbólgan í 5% út árið",
+        "source": "Viðskiptablaðið",
+        "link": "https://www.vb.is/frettir/ef-olian-er-i-100-dolum-verdur-verdbolgan-i-5-ut-arid/",
+        "published": "2026-04-01T17:18:40+00:00"
       }
     ]
   }
