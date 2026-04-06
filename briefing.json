@@ -1,112 +1,90 @@
 {
-  "updated_at": "2026-04-04T05:00:52.677392+00:00",
-  "date": "2026-04-04",
+  "updated_at": "2026-04-06T05:00:27.106599+00:00",
+  "date": "2026-04-06",
   "forecasts": {
     "reykjavik": {
       "place": "Reykjavík / Capital Area",
-      "updated_at": "2026-04-04T05:00",
+      "updated_at": "2026-04-06T05:00",
       "current": {
-        "temp": -0.9,
+        "temp": 0.0,
         "desc": "Overcast",
-        "wind": 5.4,
-        "gust": 10.2
+        "wind": 9.5,
+        "gust": 15.0
       },
       "days": [
         {
           "label": "Today",
-          "date": "2026-04-04",
-          "desc": "Light snow",
-          "tmin": -2,
-          "tmax": 2,
-          "rain": 0.3,
-          "wind": 6.8,
-          "gust": 12.5,
-          "code": 71
-        },
-        {
-          "label": "Sun",
-          "date": "2026-04-05",
-          "desc": "Overcast",
-          "tmin": -2,
-          "tmax": 4,
-          "rain": 0.0,
-          "wind": 4.1,
-          "gust": 6.5,
-          "code": 3
-        },
-        {
-          "label": "Mon",
           "date": "2026-04-06",
           "desc": "Snow",
-          "tmin": -1,
-          "tmax": 5,
-          "rain": 7.7,
-          "wind": 16.0,
-          "gust": 28.8,
+          "tmin": 0,
+          "tmax": 6,
+          "rain": 11.1,
+          "wind": 18.2,
+          "gust": 30.5,
           "code": 73
         },
         {
           "label": "Tue",
           "date": "2026-04-07",
-          "desc": "Heavy drizzle",
-          "tmin": 3,
+          "desc": "Light rain",
+          "tmin": 6,
+          "tmax": 7,
+          "rain": 10.3,
+          "wind": 13.9,
+          "gust": 24.4,
+          "code": 61
+        },
+        {
+          "label": "Wed",
+          "date": "2026-04-08",
+          "desc": "Heavy snow",
+          "tmin": 4,
+          "tmax": 6,
+          "rain": 18.9,
+          "wind": 11.8,
+          "gust": 20.2,
+          "code": 75
+        },
+        {
+          "label": "Thu",
+          "date": "2026-04-09",
+          "desc": "Snow",
+          "tmin": 1,
           "tmax": 5,
-          "rain": 7.1,
-          "wind": 14.3,
-          "gust": 24.7,
-          "code": 55
+          "rain": 7.7,
+          "wind": 9.9,
+          "gust": 17.5,
+          "code": 73
         }
       ]
     },
     "vrboska": {
       "place": "Vrboska / Hvar",
-      "updated_at": "2026-04-04T07:00",
+      "updated_at": "2026-04-06T07:00",
       "current": {
-        "temp": 14.1,
-        "desc": "Clear",
-        "wind": 3.67,
-        "gust": 10.2
+        "temp": 13.8,
+        "desc": "Mainly clear",
+        "wind": 0.22,
+        "gust": 1.8
       },
       "days": [
         {
           "label": "Today",
-          "date": "2026-04-04",
+          "date": "2026-04-06",
           "desc": "Overcast",
           "tmin": 14,
-          "tmax": 19,
-          "rain": 0.0,
-          "wind": 6.3,
-          "gust": 12.7,
-          "code": 3
-        },
-        {
-          "label": "Sun",
-          "date": "2026-04-05",
-          "desc": "Mainly clear",
-          "tmin": 14,
-          "tmax": 19,
-          "rain": 0.0,
-          "wind": 3.1,
-          "gust": 7.2,
-          "code": 1
-        },
-        {
-          "label": "Mon",
-          "date": "2026-04-06",
-          "desc": "Mainly clear",
-          "tmin": 13,
-          "tmax": 20,
+          "tmax": 21,
           "rain": 0.0,
           "wind": 2.6,
-          "gust": 6.9,
-          "code": 1
+          "gust": 6.7,
+          "code": 3
         },
         {
           "label": "Tue",
           "date": "2026-04-07",
           "desc": "Mainly clear",
           "tmin": 13,
-          "tmax": 19,
+          "tmax": 20,
           "rain": 0.0,
           "wind": 2.5,
           "gust": 7.5,
@@ -115,24 +93,46 @@
         {
           "label": "Wed",
           "date": "2026-04-08",
-          "desc": "Mainly clear",
+          "desc": "Overcast",
           "tmin": 14,
-          "tmax": 21,
+          "tmax": 20,
           "rain": 0.0,
           "wind": 4.0,
-          "gust": 7.0,
-          "code": 1
+          "gust": 12.2,
+          "code": 3
         },
         {
           "label": "Thu",
           "date": "2026-04-09",
-          "desc": "Partly cloudy",
-          "tmin": 13,
-          "tmax": 16,
+          "desc": "Overcast",
+          "tmin": 14,
+          "tmax": 18,
           "rain": 0.0,
-          "wind": 2.5,
-          "gust": 4.0,
-          "code": 2
+          "wind": 4.1,
+          "gust": 9.0,
+          "code": 3
+        },
+        {
+          "label": "Fri",
+          "date": "2026-04-10",
+          "desc": "Light showers",
+          "tmin": 11,
+          "tmax": 15,
+          "rain": 0.9,
+          "wind": 7.0,
+          "gust": 14.1,
+          "code": 80
+        },
+        {
+          "label": "Sat",
+          "date": "2026-04-11",
+          "desc": "Clear",
+          "tmin": 9,
+          "tmax": 13,
+          "rain": 0.0,
+          "wind": 7.3,
+          "gust": 13.2,
+          "code": 0
         }
       ]
     }
@@ -140,82 +140,70 @@
   "alerts": [
     {
       "severity": "watch",
-      "title": "Reykjavík / Capital Area: rough weather Mon",
-      "detail": "Snow, gusts up to 28.8 m/s, rain 7.7 mm.",
+      "title": "Reykjavík / Capital Area: rough weather Today",
+      "detail": "Snow, gusts up to 30.5 m/s, rain 11.1 mm.",
       "source": "Open-Meteo"
-    },
-    {
-      "severity": "official",
-      "title": "Split region warning",
-      "detail": "Valid from 04.04.2026 00:00:00 until 04.04.2026 12:00:00 | Awareness Level: Yellow Locally gale force gusts of bura (NE wind). Maximum gust speed > 65 km/h STAY ALERT for debris carried by strong winds. Debris and tree branches carried by the wind may cause localised interruptions in outdoor activities.",
-      "source": "DHMZ"
-    },
-    {
-      "severity": "official",
-      "title": "Middle Dalmatia region marine warning",
-      "detail": "Middle Dalmatia region Valid from 04.04.2026 00:00:00 until 04.04.2026 23:59:59 | Awareness Level: Orange Strong, at the foot of Biokovo near gale and gale NE wind. In the afternoon strong NW wind. Maximum wind gusts 35-65 knots (65-120 km/h)",
-      "source": "DHMZ"
     }
   ],
   "news": {
     "world": [
       {
-        "title": "Two U.S. warplanes shot down, search ongoing in Iran for 1 missing crew member",
-        "source": "The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV2k3RzVva0hYbF9UM20yYzBfaVlBOHRVQ1BSQ3NWUU54MlJFM0M4WHRoUm1zSThjUVlxZTNKSnEwNzNlZklDT0RhSVJzanlJdDNoLXNDcGdYT2RxMVZsVTIyUVRJZUZ2Z2xSdm9WVEtvM1dfSkJuV19uQ25HTGNRZ3JaSDVWb1ljQ0EyNg?oc=5",
-        "published": "2026-04-04T04:49:43+00:00"
+        "title": "Dollar-Yen weaken further due to Iran war, triggering intervention: Macquarie",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc09xVVlwR2pqQ2x6YUhGUDZRMGxqREFCT2FRNm5HaUJUNS1qX2lRa29HN3RtdXNNSlFvRjFLbV96S0NxRDdxZnZXcE0xaE1wV0ZkbzhUdDFwdWVkVS0xcHhGYll4NlZaLVFyZDNTZjI2R25WR1RjZUJ0dDhZLXhCTkk5ZjVVVjgtb3E2MFZ2RlNBSldoOFk5YXQ5N3RqM0tfQncxcnhWRkNaZDQ?oc=5",
+        "published": "2026-04-06T04:33:07+00:00"
       },
       {
-        "title": "China’s Aiming for the Moon, and NASA Is Looking Over Its Shoulder",
-        "source": "The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa19DUTdJX1V3UXVIMzZkOWJoR2pEY3o0ZEd5emEyd0QyQVRsWUtBMmIxWGg0dmZPTktvakFvOWxVYXpzMUw1bnpCQVpIZkNyY1JHQ1MxZjVwaFpXbHRhcmt2TlJUMXc2SXVRTC1OajFDOWNUOS1sSWN5ZmhLTl9nU0xyVWN1N1E?oc=5",
-        "published": "2026-04-04T03:23:13+00:00"
+        "title": "US, Iran discuss potential two phase deal including 45-day ceasefire - Axios",
+        "source": "The Jerusalem Post",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jWXBha1ZVRXc4VGpLazdmM3l2U3l2MEtiSDY2aUhnbHVhR0VoMHNNWlpVcnBUcm0xMTdyaUZ5dnQ5S0dhZURqUVI1SnlPTXFGRjRYUU5WcWV3YUlvR3JWVkRXdWlQeUlCb3c?oc=5",
+        "published": "2026-04-06T03:43:01+00:00"
       },
       {
-        "title": "White House Seeks 40 Percent Increase in Military Spending",
-        "source": "The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tRWZtRmdjejBPcGw5RXlmTmllX1BnMEFPenpWSU1KTUZtbk5kRDZERk5VY2d6c2ltWURWN1lZb2ZPaWFPRmVYX1ZQNEZGaXI1UG1YaUYyeU1sVXJ4QTRGTXFrUQ?oc=5",
-        "published": "2026-04-04T00:36:37+00:00"
+        "title": "Trump vows 'hell' for Iran if Strait stays shut, says a deal is possible",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1NVOGlScVVMZU1ST3hlMjZVOXJCVkNsN0t6YmM2aDd0SUdDT1NWVVdhTEY2RXNVYUlxUzV5ZXJiMlJEWTZjRFBIZ0Z4N2pKeFU1SnV3czNuOGpJY1dOMGVwZnlvbWRTd0dycEQwekU4YllaZV85c3B2UUZHRlN0eUVIQkpaTXVRSDdLR1U1UjUtUG01SUI5WENsamJuWjZYdjRpU0VYYnlJVFdna09pbFpSVllVOEk3SGFaR2g4WlRmbW5J?oc=5",
+        "published": "2026-04-06T03:41:00+00:00"
       }
     ],
     "ai": [
       {
-        "title": "Microsoft’s US$10b Japan AI Bet And What It Means For Investors",
-        "source": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS3drQXBjV1pzZHNYMFNsbWhjMkRSLXQ1cHEtYlU4TVRQemdObGdzUjZPTEo2Zl9VWUMxZ0s1ZUJheHlwZXpuczdSemRrMU5pOG83MWNTT0ZaUWhuVWtFbVRna1c2am5pUTJCZ3BvRzlYZEpWbVVWb1RaM1IydFJoNVVVN1RVNUoyU2RXaEhsN3VVTWVY?oc=5",
-        "published": "2026-04-04T04:23:00+00:00"
+        "title": "SK Hynix in talks with Microsoft, Google for long-term DRAM supply",
+        "source": "KED Global",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZY1JYUzJKLWlQX3I1T3BvdFNsbTNteW9YQ0lfTDlVdV9zWUpJQ01sQl82aURyQ2pLaU1zajRRdk5TU0RCQ0tzbDNiMkpYejFGTmJMenc4UVhlakM4R1RCeHNjd2IzYl9vWDM0dU9ndFktSVhFaXdj?oc=5",
+        "published": "2026-04-06T04:34:41+00:00"
       },
       {
-        "title": "Competition or ‘co-opetition’: how is convergence shaping Sino-US AI race?",
-        "source": "South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQVZHdkZneTVYN0tveVUzQnVJSDhHNU9ZaW5CRFJWcjBreC1GWmphb0pOLTNBbEZGclU4UG5oam05UU5kRGd0cGpyRGxCSWFDSGdfYktYT2hqeHFiMF9RREx6ekJWcGlzVG1VWEpCUlFEM2ZGeGJjbmt2aE1nM0ZobG5sejVlTnRvRVZXclFhLV9ZdHIxdHNFU2pKVFQ4UzAtMnpMakNRWU5nMUQ3ZVNVUllnWEU4dHJYSTZZNFJ6NXZ1VHFKeUN3dG80MNIBywFBVV95cUxNd3d3YTYtOHduaDY2N0ctN1FQcEthSDU3OU5YVm5NTDJuNGFRRmFlaEJYdHVQNi1sZkVxSjhtVkZ0QTNTdXZkWlgxc1FIWWxaOExyMTk5NVh2elVEbHg3ZkdXZDlmMG5Lc0ZXLVBGNkV1SkFpT3MzMWlTbnlkMEp1bWVvdlV5Y25fODhwQ2lDeFJHdmhvdnU0dlJlTkVPOG9JWjBWb0p2amlFWGx4SFZtVDBueUwwNnRON1N3LVVGZ3Z1d3VVNXB4em5rVQ?oc=5",
-        "published": "2026-04-04T02:00:12+00:00"
+        "title": "Mark Cuban said CEOs face a no-win AI dilemma that could tank their stock either way",
+        "source": "Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3hReW1VYlZzWW94YkxyMzhKdmJ0d19lelFhWDFKZkZZUzNkUW1LbUZONVE1ZHRVUzBKTVlpcE50aG9ldWx5Sm9qWU9uaE8zcXlPYVhLWDEzRHBOYUd4SmM2Q0tlQm9jUHFNVHRFWkN2SjJQTmtfaU94cUZfaEZGcDk3NWdWU3lKNzgwS1Q5MmM?oc=5",
+        "published": "2026-04-06T04:27:00+00:00"
       },
       {
-        "title": "Nvidia Marvell Alliance Extends AI Platform From Data Centers To Telecoms",
-        "source": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQampLdWJZd3JxNGNEWUhQSnRWdmgzQTUzTW9fdFAwX2xSZFM4V2tsbEk5cXQ1XzlEUkswLTJ5UVlLNWJCVzR1SEx6VE9mR3BBY0JNaW1RdkdHaFdOSzJ0QzNRS2E1b1lDV2hUVWFSdlVfTFE5NWx1cVBaY09GTk5BbFRaeGNiY0tfN0Y4YldGSmZQOHpWa0hnZ2l1b0lndW5Z?oc=5",
-        "published": "2026-04-04T02:13:00+00:00"
+        "title": "From Principles To Practice: Building Quality Into Generative AI-Assisted Pharma Operations",
+        "source": "Med Device Online",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcmVZMUNuMkRtalFmOHNOZUNhLUUwbXJWQWIwY1ZuNDVlamN1TGthVkFSSVVuclFrNElzY0RXMzVzSkllbFU3YXdLSXB3d3VuaWwyRXltOEJlOVB5eEdoam92ZjU1LWg4NW51cFYyaVlOOEJwbWF5Zy1aajFEQVpmY1NvaERMeVpoTDU0czVvWUNJczJBNTJBTlh2V1pyOXg3N0U5aHVtN3lrWFdUc3NkV3c3eFVKeEN6V3ZTM21KdjVpZUw4YzZmSWk5VQ?oc=5",
+        "published": "2026-04-06T04:04:16+00:00"
       }
     ],
     "iceland": [
       {
-        "title": "450 milljónir í arð",
-        "source": "Viðskiptablaðið",
-        "link": "https://www.vb.is/frettir/greida-450-milljonir-i-ard/",
-        "published": "2026-04-03T12:09:03+00:00"
+        "title": "Úkraínumenn saka Rússa um að sviðsetja fyrirhugað skemmdarverk á gasleiðslu í Serbíu",
+        "source": "RÚV",
+        "link": "https://www.ruv.is/frettir/erlent/2026-04-06-ukrainumenn-saka-russa-um-ad-svidsetja-fyrirhugad-skemmdarverk-a-gasleidslu-i-serbiu-471820/",
+        "published": "2026-04-06T04:15:34+00:00"
       },
       {
-        "title": "Segir kaupin í hag allra starfs­manna",
-        "source": "Viðskiptablaðið",
-        "link": "https://www.vb.is/frettir/segir-kaupin-i-hag-allra-starfsmanna/",
-        "published": "2026-04-02T13:03:02+00:00"
-      },
-      {
-        "title": "Eyfi ósáttur við skattinn: „Þetta mun ég aldrei borga“",
+        "title": "Nýi garðskálinn glæsilegur",
         "source": "mbl innlent",
-        "link": "https://www.mbl.is/frettir/innlent/2026/04/03/eyfi_osattur_vid_skattinn_thetta_mun_eg_aldrei_borg/",
-        "published": "2026-04-03T12:27:00+00:00"
+        "link": "https://www.mbl.is/frettir/innlent/2026/04/05/nyi_gardskalinn_glaesilegur/",
+        "published": "2026-04-05T19:38:00+00:00"
+      },
+      {
+        "title": "Vonbrigðin með fjármálaáætlunina",
+        "source": "Viðskiptablaðið",
+        "link": "https://www.vb.is/skodun/vonbrigdin-med-fjarmalaaaetlunina2/",
+        "published": "2026-04-05T16:04:59+00:00"
       }
     ]
   }
